@@ -1,0 +1,107 @@
+ClassId,SignName
+0,Speed limit (20km/h)
+1,Speed limit (30km/h)
+2,Speed limit (50km/h)
+3,Speed limit (60km/h)
+4,Speed limit (70km/h)
+5,Speed limit (80km/h)
+6,End of speed limit (80km/h)
+7,Speed limit (100km/h)
+8,Speed limit (120km/h)
+9,No passing
+10,No passing for vehicles over 3.5 metric tons
+11,Right-of-way at the next intersection
+12,Priority road
+13,Yield
+14,Stop
+15,No vehicles
+16,Vehicles over 3.5 metric tons prohibited
+17,No entry
+18,General caution
+19,Dangerous curve to the left
+20,Dangerous curve to the right
+21,Double curve
+22,Bumpy road
+23,Slippery road
+24,Road narrows on the right
+25,Road work
+26,Traffic signals
+27,Pedestrians
+28,Children crossing
+29,Bicycles crossing
+30,Beware of ice/snow
+31,Wild animals crossing
+32,End of all speed and passing limits
+33,Turn right ahead
+34,Turn left ahead
+35,Ahead only
+36,Go straight or right
+37,Go straight or left
+38,Keep right
+39,Keep left
+40,Roundabout mandatory
+41,End of no passing
+42,End of no passing by vehicles over 3.5 metric tons
+,
+43,BelgiumTS- class 0
+44,BelgiumTS- class 1
+45,BelgiumTS- class 2
+46,BelgiumTS- class 3
+47,BelgiumTS- class 4
+48,BelgiumTS- class 5
+49,BelgiumTS- class 6
+50,BelgiumTS- class 7
+51,BelgiumTS- class 8
+52,BelgiumTS- class 9
+53,BelgiumTS- class 10
+54,BelgiumTS- class 11
+55,BelgiumTS- class 12
+56,BelgiumTS- class 13
+57,BelgiumTS- class 14
+58,BelgiumTS- class 15
+59,BelgiumTS- class 16
+60,BelgiumTS- class 17
+61,BelgiumTS- class 18
+62,BelgiumTS- class 19
+63,BelgiumTS- class 20
+64,BelgiumTS- class 21
+65,BelgiumTS- class 22
+66,BelgiumTS- class 23
+67,BelgiumTS- class 24
+68,BelgiumTS- class 25
+69,BelgiumTS- class 26
+70,BelgiumTS- class 27
+71,BelgiumTS- class 28
+72,BelgiumTS- class 29
+73,BelgiumTS- class 30
+74,BelgiumTS- class 31
+75,BelgiumTS- class 32
+76,BelgiumTS- class 33
+77,BelgiumTS- class 34
+78,BelgiumTS- class 35
+79,BelgiumTS- class 36
+80,BelgiumTS- class 37
+81,BelgiumTS- class 38
+82,BelgiumTS- class 39
+83,BelgiumTS- class 40
+84,BelgiumTS- class 41
+85,BelgiumTS- class 42
+86,BelgiumTS- class 43
+87,BelgiumTS- class 44
+88,BelgiumTS- class 45
+89,BelgiumTS- class 46
+90,BelgiumTS- class 47
+91,BelgiumTS- class 48
+92,BelgiumTS- class 49
+93,BelgiumTS- class 50
+94,BelgiumTS- class 51
+95,BelgiumTS- class 52
+96,BelgiumTS- class 53
+97,BelgiumTS- class 54
+98,BelgiumTS- class 55
+99,BelgiumTS- class 56
+100,BelgiumTS- class 57
+101,BelgiumTS- class 58
+102,BelgiumTS- class 59
+103,BelgiumTS- class 60
+104,BelgiumTS- class 61
